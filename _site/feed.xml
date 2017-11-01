@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.Major Taiwan</title>
+    <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 01 Nov 2017 21:38:40 +0800</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2017 21:38:40 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Daily Juice 範例文</title>
+        <description>&lt;h5 id=&quot;文章標題&quot;&gt;文章標題&lt;/h5&gt;
+
+&lt;p&gt;/img/examplepost/000.jpg
+以下部分都可以用markdown語法來寫文章
+插入圖片:&lt;/p&gt;
+
+&lt;p&gt;內文&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017-10-15-daily-juice</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-10-15-daily-juice</guid>
+        
+        
+        <category>daily-juice</category>
+        
+      </item>
+    
+      <item>
+        <title>Daily Juice 寫作教學</title>
+        <description>&lt;p&gt;首先打開一個空白MD檔，在頁首的位置建立一個Frontmatter，複製以下code貼上即可:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: blog
+title: &quot;輸入文章標題&quot;
+description: &quot;輸入簡短的描述&quot;
+category: daily-juice
+permalink: yyyy-mm-dd-daily-juice-文章編號
+
+update:&quot;輸入文章更新日期&quot;yyyy-mm-dd&quot;
+image:
+- &quot;/img/dailyjuice/&quot;圖片編號&quot;.jpg&quot;
+
+
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;   Frontmatter的上下都要以「- - -」包起來&lt;/p&gt;
+
+&lt;p&gt;接著以下部分都以平時MD檔的寫作方式就可以囉~~!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017-10-15-dailyjuice-instructions</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-10-15-dailyjuice-instructions</guid>
+        
+        
+        <category>daily-juice</category>
+        
+      </item>
+    
+  </channel>
+</rss>
