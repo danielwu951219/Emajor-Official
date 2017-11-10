@@ -1,8 +1,12 @@
 <div class="six columns">
   <h5><strong>熱門標籤</strong></h5>
-<a href="">經濟金融</a>|
-<a href="">社會政治</a>|
-<a href="">國際</a>
+  {% for page in site.pages %}
+  {% if page.catagories contains "popular-tag" %}
+
+  <a href="{{ page.url }}">{{ page.title }}</a>|
+
+  {% endif %}
+  {% endfor %}
 <!-- <a title="Privacy Policy Altcointrading.net" href="/about/">Privacy</a> |
   <a title="Trading disclaimer" href="/disclaimer/">Disclaimer</a> |
   <a href='http://feeds.specificfeeds.com/altcointrading?subParam=followPub' target='_blank'>
