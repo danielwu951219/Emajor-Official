@@ -486,3 +486,11 @@ figure.noborder {
 .nine.columns {
   margin-bottom:28px
 }
+.title-unitB i {
+    display: inline-block;
+    width: 6px;
+    height: 20px;
+    margin-right: 8px;
+    background-color: 	#FF3333;
+    vertical-align: top;
+}

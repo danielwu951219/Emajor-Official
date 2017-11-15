@@ -5,7 +5,7 @@ description: 請依照此篇文章進行官網的Daily Juice寫作
 category: daily-juice
 permalink: 2017-10-15-dailyjuice-instructions
 update: 2017-10-15
-tags:
+tags: closed
 
 ---
 首先打開一個空白MD檔，在頁首的位置建立一個Frontmatter，複製以下code貼上即可:  

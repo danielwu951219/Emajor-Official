@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E.Major Taiwan</title>
-    <description>Altcoin Trading is the forex of cryptocurrencies, with bitcoin as the base currency.</description>
+    <description>Welcom to E.Major Taiwan WebPage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Nov 2017 00:14:57 +0800</pubDate>
-    <lastBuildDate>Sun, 12 Nov 2017 00:14:57 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Nov 2017 23:00:28 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Nov 2017 23:00:28 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -34,6 +34,8 @@ image:
         <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2017-10-15-dailyjuice-instructions</link>
         <guid isPermaLink="true">http://localhost:4000/2017-10-15-dailyjuice-instructions</guid>
+        
+        <category>closed</category>
         
         
         <category>daily-juice</category>
