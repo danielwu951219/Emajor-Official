@@ -5,7 +5,6 @@ description: 請依照此篇文章進行官網的Daily Juice寫作
 category: daily-juice
 permalink: 2017-10-15-dailyjuice-instructions
 update: 2017-10-15
-tags: closed
 published: false
 
 ---
