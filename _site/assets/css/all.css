@@ -498,12 +498,17 @@ figure.noborder {
     vertical-align: top;
 }
 blockquote {
-  padding-top: 20px;
+  padding-top: 3px;
   padding-right: 30px;
-  padding-bottom: 0.5px;
+  padding-bottom: 0px;
   padding-left: 20px;
   color: #000000;
   border-left: 0.25em solid #000000;
   background-color: #DDDDDD;
+  display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
 }
 
