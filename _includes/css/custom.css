@@ -32,8 +32,7 @@ hr.home {
 
 .maincontent h3 {
   margin-top: 0px;
-  background: rgba(122, 131, 141, 0.64);
-  color: #fff;
+  color: #413F4F;
   padding: 5px 10px 3px;
   margin-left: -10px;
   font-size: 2.3rem;
@@ -493,4 +492,9 @@ figure.noborder {
     margin-right: 8px;
     background-color: 	#FF3333;
     vertical-align: top;
+}
+blockquote {
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: 0.25em solid #dfe2e5;
 }
