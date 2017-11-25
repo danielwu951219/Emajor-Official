@@ -498,8 +498,12 @@ figure.noborder {
     vertical-align: top;
 }
 blockquote {
-  padding: 0 1em;
-  color: #6a737d;
-  border-left: 0.25em solid #dfe2e5;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 0.5px;
+  padding-left: 20px;
+  color: #000000;
+  border-left: 0.25em solid #000000;
+  background-color: #DDDDDD;
 }
 
