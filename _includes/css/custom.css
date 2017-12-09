@@ -1,7 +1,8 @@
 
 body {
-    font-family: 'Droid Sans',"微軟正黑體",sans-serif;
+    font-family: Arial, 'Droid Sans',  "Heiti TC", "Microsoft JhengHei", "微軟正黑體",sans-serif;
     color: #413F4F;
+    font-size: 20px;
 }
 
 h1,
@@ -10,7 +11,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Arial',"微軟正黑體" , serif;
+    font-family: 'Arial',"Heiti TC", "Microsoft JhengHei","微軟正黑體" , serif;
 }
 
 hr.home {
@@ -178,7 +179,7 @@ ul.navi {
 ul.navi li {
     list-style-type: none;
     display: inline-block;
-    font-size: 1.6rem;
+    font-size: 2rem;
     margin-right:15px;
     font-weight:800;
     padding-left: 0 ;
@@ -453,7 +454,7 @@ figure.noborder {
 }
 
 .recent-box .recent-title {
-  font-family: "微軟正黑體",'Lato', sans-serif;
+  font-family: 'Arial',"Heiti TC", "Microsoft JhengHei","微軟正黑體",'Lato', sans-serif;
   font-weight: 400;
   color: #311e3e;
   text-align: center;
